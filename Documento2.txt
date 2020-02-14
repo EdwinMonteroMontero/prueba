@@ -1,1 +1,2 @@
 Este es un docuemento creado desde un repositorio Git Hub Existente
+se edita el documento desde el repositorio
